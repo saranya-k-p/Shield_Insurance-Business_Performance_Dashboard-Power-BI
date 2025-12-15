@@ -6,6 +6,10 @@ This project presents an interactive **Business Performance Dashboard** develope
 
 The objective of this project is to enable **data-driven decision-making** by bringing key business metrics and trends into a single, easy-to-use analytical view.
 
+
+**Live Dashboard / Project Link:**  
+*(https://app.powerbi.com/view?r=eyJrIjoiYWYzYjJhNzItZGQ1MS00YzUzLTg1YTgtYmRjNDI2Mjg2NTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)*
+
 ---
 
 ##  Business Objectives
